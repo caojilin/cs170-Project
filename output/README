@@ -1,0 +1,7 @@
+An example of running the code:
+
+python3 pipeline.py medium 1000
+
+The code depends on meta/small meta/medium and meta/large to exist.
+
+
